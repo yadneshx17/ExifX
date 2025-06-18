@@ -28,3 +28,11 @@ The output includes:
 -   EXIF metadata (DateTime, Camera info, GPS)
 -   Google Maps link (if GPS is found)
 -   Cryptographic hashes of the file
+
+---
+⚠️ General Note
+Most modern social media platforms (like Instagram, Facebook, WhatsApp, Twitter, etc.) automatically strip EXIF metadata from images when they're uploaded. This includes GPS coordinates, device info, timestamps, and other metadata.
+
+🔍 What this means:
+> If you're analyzing an image that was directly downloaded from a social media app or website, there's a high chance that all useful EXIF data has been removed.
+For best results, try to obtain original/uncompressed image files (e.g., directly from a phone, SD card, or cloud backup).
