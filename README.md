@@ -3,7 +3,7 @@
 A simple Python tool to extract and display Exif metadata from image files. It includes, date taken, camera details, and file hashes for integrity checks. Built with Osint and digital forensics in mind.
 
 ---
-⚠️ General Note
+⚠️ General Note: 
 Most modern social media platforms (like Instagram, Facebook, WhatsApp, Twitter, etc.) automatically strip EXIF metadata from images when they're uploaded. This includes GPS coordinates, device info, timestamps, and other metadata.
 
 🔍 What this means:
